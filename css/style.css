@@ -1,0 +1,131 @@
+body{
+	margin:0;
+}
+
+p {
+  font-family: font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.headerHero {
+    background-color: blue;
+    width: 100%;
+    text-align: center;
+    padding: 25px 0 210px;
+    z-index: 2;
+    position: absolute;
+}
+
+h1{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 100;
+    font-size: 66px;
+    color: #fff;
+    margin-bottom: 26px;
+}
+
+h2{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight:100;
+    font-size: 30px;
+    color: #fff;
+    letter-spacing: 0;
+    line-height: 46px;
+    margin-bottom: 54px;
+}
+
+.cerrarSesion{
+    text-align: right;
+    margin-right: 40px;
+}
+
+#headerCurve {
+    width: 100%;
+    height: 100px;
+    position: absolute;
+    bottom: 0;
+    background-color: blue;
+}
+
+.buttonLargePink {
+    background: white;
+     font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 22px;
+    color: black;
+    letter-spacing: 0;
+    min-width: 200px;
+    display: inline-block;
+    padding: 14px 10px 16px;
+    text-align: center;
+    -webkit-transition: box-shadow .3s;
+    transition: box-shadow .3s;
+    margin-left: 40px;
+    cursor: pointer;
+}
+
+.buttonLargePink:hover {
+    background: #222;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 22px;
+    color: #fff;
+    letter-spacing: 0;
+    min-width: 200px;
+    display: inline-block;
+    padding: 14px 10px 16px;
+    text-align: center;
+    -webkit-transition: box-shadow .3s;
+    transition: box-shadow .3s;
+    margin-left: 40px;
+    cursor: pointer;
+}
+
+.buttonLargeWhite {
+    background: #fff;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 22px;
+    color: #222;
+    letter-spacing: 0;
+    min-width: 200px;
+    display: inline-block;
+    padding: 14px 10px 16px;
+    text-align: center;
+    -webkit-transition: box-shadow .3s;
+    transition: box-shadow .3s;
+    cursor: pointer;
+    text-decoration: none !important;
+}
+
+.buttonLargeWhite:hover {
+    background: #222;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 22px;
+    color: #fff;
+    letter-spacing: 0;
+    min-width: 200px;
+    display: inline-block;
+    padding: 14px 10px 16px;
+    text-align: center;
+    -webkit-transition: box-shadow .3s;
+    transition: box-shadow .3s;
+    cursor: pointer;
+    text-decoration: none !important;
+}
+
+ #headerHeroBottom{
+   background-color: #222;
+   height:630px;
+   width: 100%;
+   position: absolute;
+   margin-top:210px;
+   padding-top:100px;
+   
+   }
+
+
+.container{
+  margin-top:100px;
+
+}
+
+#facebookPlugin{
+  margin-top: 100px;
+}
